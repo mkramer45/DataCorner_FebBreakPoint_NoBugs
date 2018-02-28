@@ -5,7 +5,7 @@
 -- created SQL script inserts rows from google docs into 
 
 
-INSERT INTO Motivational (Msg, Src)
+INSERT INTO Motivational (Src, Msg)
 VALUES ('Anonymous',' If you want to achieve greatness stop asking for permission.'),
 ('John Wooden',' Things work out best for those who make the best of how things work out.'),
 ('Anonymous',' To live a creative life, we must lose our fear of being wrong.'),
